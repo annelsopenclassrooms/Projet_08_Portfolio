@@ -39,11 +39,3 @@ Ce fichier regroupe mes ressources, outils, articles et opportunités pour suivr
 - [Freelance Python/Django](https://www.freelance-info.fr/) – Missions freelance
 - Entreprises et startups locales intéressées par Python/Django
 
----
-
-## 📅 Suivi personnel
-- Mise à jour : **2025-09-02**  
-- Objectifs cette semaine : 
-  1. Suivre un tutoriel avancé Django REST Framework  
-  2. Mettre à jour le portfolio GitHub avec les nouveaux projets  
-  3. Rechercher 5 offres d’emploi Python/Django pertinentes
