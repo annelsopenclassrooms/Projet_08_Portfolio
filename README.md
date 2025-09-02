@@ -43,7 +43,7 @@ Développement d’un backend complet pour une application web en utilisant Djan
 ---
 
 ## 🔗 Veille professionnelle et technique
-Consultez ma veille [ici](veille/veille.md) pour :  
+Consultez ma veille [ici]([veille/veille.md](https://github.com/annelsopenclassrooms/Projet_08_Portfolio/blob/main/veille.md)) pour :  
 - Articles et tutoriels Python/Django  
 - Offres d’emploi et opportunités professionnelles  
 - Outils et ressources pour améliorer mes compétences
