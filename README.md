@@ -32,21 +32,18 @@ Plateforme permettant aux utilisateurs de demander, lire et publier des critique
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Django](https://img.shields.io/badge/Django-4.2-green) ![REST API](https://img.shields.io/badge/API-REST-red)  
 API RESTful développée avec Django et Django REST Framework pour gérer les projets, tickets et commentaires dans un environnement B2B.
 
-### 5️⃣ [Projet 11 – Tests Python](https://github.com/annelsopenclassrooms/Projet_11_tests/blob/master/README.md)  
+### 5️⃣ [Tests Python](https://github.com/annelsopenclassrooms/Projet_11_tests/blob/master/README.md)  
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Tests](https://img.shields.io/badge/Tests-Unit%20%26%20Fonctionnels-brightgreen)  
 Développement de tests unitaires et fonctionnels pour différents projets Python, afin de garantir la qualité et la fiabilité du code.
 
-### 6️⃣ [Projet 12 – Backend](https://github.com/annelsopenclassrooms/Projet_12_Backend/blob/main/README.md)  
+### 6️⃣ [Backend](https://github.com/annelsopenclassrooms/Projet_12_Backend/blob/main/README.md)  
 ![Python](https://img.shields.io/badge/Python-3.12-blue) ![Django](https://img.shields.io/badge/Django-4.2-green) ![REST API](https://img.shields.io/badge/API-REST-red)  
 Développement d’un backend complet pour une application web en utilisant Django et Django REST Framework, avec gestion des utilisateurs, des rôles, des données et mise en place d’API sécurisées et tests automatisés.
 
 ---
 
 ## 🔗 Veille professionnelle et technique
-Consultez ma veille [ici]([veille/veille.md](https://github.com/annelsopenclassrooms/Projet_08_Portfolio/blob/main/veille.md)) pour :  
+Consultez ma veille [ici](https://github.com/annelsopenclassrooms/Projet_08_Portfolio/blob/main/veille.md) pour :  
 - Articles et tutoriels Python/Django  
 - Offres d’emploi et opportunités professionnelles  
 - Outils et ressources pour améliorer mes compétences
-
----
-
